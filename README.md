@@ -1,0 +1,2 @@
+# Design-Patters
+TypeScriptでデザインパターンを理解するためのリポジトリ
